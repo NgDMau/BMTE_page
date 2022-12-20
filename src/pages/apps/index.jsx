@@ -28,7 +28,7 @@ const AppsPage = () => {
         className="item blue"
         onClick={() => {
           setTimeout(() => {
-            window.open("https://ncbsm.bmte.vn/login","_blank");
+            window.open("https://ncbsm.bmte.vn/","_blank");
           }, 0);
         }}
       >
